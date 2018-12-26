@@ -6,3 +6,4 @@ Below notebooks gives complete details about each Machine Learning algorithm, it
 3. [Support Vector Machines](https://github.com/KrisSandy/ExMachineLearning/blob/master/ML_Classification_SVM.ipynb)
 4. [Linear Regression - Implementation of Cost Function and Gradient Decent](https://github.com/KrisSandy/ExMachineLearning/blob/master/Machine_Learning_%7C_Linear_Regression.ipynb)
 5. [Precrptron - Full implementation](https://github.com/KrisSandy/ExMachineLearning/blob/master/Perceptron.ipynb)
+6. [Logistic Regression - Full Implementation](https://github.com/KrisSandy/ExMachineLearning/blob/master/Logistic_Regression.ipynb)
