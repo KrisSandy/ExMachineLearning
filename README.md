@@ -7,3 +7,4 @@ Below notebooks gives complete details about each Machine Learning algorithm, it
 4. [Linear Regression - from scratch](https://github.com/KrisSandy/ExMachineLearning/blob/master/Machine_Learning_%7C_Linear_Regression.ipynb)
 5. [Precrptron - from scratch](https://github.com/KrisSandy/ExMachineLearning/blob/master/Perceptron.ipynb)
 6. [Logistic Regression - from scratch](https://github.com/KrisSandy/ExMachineLearning/blob/master/Logistic_Regression.ipynb)
+7. [Tensorflow Basics](https://github.com/KrisSandy/ExMachineLearning/blob/master/TensorFlow.ipynb)
