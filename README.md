@@ -1,5 +1,5 @@
 # MachineLearning
-Below notebooks gives complete details about each Machine Learning algorithm, its hypothesis, cost function, gradient decent etc..
+Below notebooks gives complete details about each Machine Learning algorithm, its hypothesis, cost function, gradient decent etc along with implementations...
 
 1. [K Nearest Neighbors](https://github.com/KrisSandy/ExMachineLearning/blob/master/ML_Classification_KNN.ipynb)
 2. [Logistic Regression](https://github.com/KrisSandy/ExMachineLearning/blob/master/ML_Classification_Logistic_Regression.ipynb)
