@@ -8,3 +8,5 @@ Below notebooks gives complete details about each Machine Learning algorithm, it
 5. [Precrptron - from scratch](https://github.com/KrisSandy/ExMachineLearning/blob/master/Perceptron.ipynb)
 6. [Logistic Regression - from scratch](https://github.com/KrisSandy/ExMachineLearning/blob/master/Logistic_Regression.ipynb)
 7. [Tensorflow Basics](https://github.com/KrisSandy/ExMachineLearning/blob/master/TensorFlow.ipynb)
+8. [Neural Network Implementations](https://github.com/KrisSandy/ExMachineLearning/blob/master/Neural_Networks.ipynb)
+9. [Irony Detection Using LSTM](https://github.com/KrisSandy/ExMachineLearning/blob/master/Irony_Detection_Traditional_and_NN_approach.ipynb)
